@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Raty 0%",
+        "description": "Szybkie i proste zakupy bez dodatkowych kosztów. Spłacasz dokładnie tyle, ile pożyczasz!",
+        "icon": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg/>",
+        "type": "INSTALLMENTS_ZERO_PERCENT",
+        "instalmentAmount": 1200,
+        "representativeExample": "Przykład reprezentatywny",
+        "rrso": 0,
+        "toPay": 120000,
+        "remarks": null,
+        "loanTerm": 10,
+        "loanParameters": [
+            {"instalmentAmount": 40000, "loanTerm": 3, "toPay": 120000, "rrso": 0},
+            {"instalmentAmount": 20000, "loanTerm": 6, "toPay": 120000, "rrso": 0},
+            {"instalmentAmount": 1200, "loanTerm": 10, "toPay": 120000, "rrso": 0}
+        ]
+    },
+    {
+        "name": "Niskie raty",
+        "description": "Zakupy bez obciążania budżetu, dostosowane do Twoich potrzeb. Sam decydujesz o liczbie rat.",
+        "icon": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg/>",
+        "type": "CONVENIENT_INSTALLMENTS",
+        "instalmentAmount": 6200,
+        "representativeExample": "Przykład reprezentatywny",
+        "rrso": 0.2384,
+        "toPay": 148797,
+        "remarks": null,
+        "loanTerm": 24,
+        "loanParameters": [
+            {"instalmentAmount": 21201, "loanTerm": 6, "toPay": 127206, "rrso": 0.17420000000000002},
+            {"instalmentAmount": 11200, "loanTerm": 12, "toPay": 134394, "rrso": 0.1869},
+            {"instalmentAmount": 7867, "loanTerm": 18, "toPay": 141602, "rrso": 0.1892},
+            {"instalmentAmount": 6200, "loanTerm": 24, "toPay": 148797, "rrso": 0.18899999999999997},
+            {"instalmentAmount": 4534, "loanTerm": 36, "toPay": 163206, "rrso": 0.1863},
+            {"instalmentAmount": 3701, "loanTerm": 48, "toPay": 177614, "rrso": 0.1827}
+        ]
+    }
+]

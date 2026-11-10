@@ -1,0 +1,11 @@
+{
+    "orderId": "ZAM-001",
+    "status": "WAITING_FOR_CONFIRMATION",
+    "createdAt": "2026-11-10T09:15:00+01:00",
+    "applicationUrl": "https://app.craty.pl/application/abc123",
+    "notifyUrl": "https://shop.example.com/comfino/notification/default",
+    "returnUrl": "https://shop.example.com/comfino/return",
+    "loanParameters": {"amount": 246000, "maxAmount": 246000, "term": 10, "type": "INSTALLMENTS_ZERO_PERCENT", "allowedProductTypes": ["INSTALLMENTS_ZERO_PERCENT", "PAY_LATER"]},
+    "cart": {"totalAmount": 246000, "deliveryCost": null, "category": null, "products": [{"name": "Lenovo Ideapad 120S-14IAP", "price": 246000, "quantity": 1, "externalId": "123", "photoUrl": null, "ean": "9002490100070", "category": "productCategory"}]},
+    "customer": {"firstName": "Jan", "lastName": "Kowalski", "email": "customer@example.com", "phoneNumber": "312213213", "ip": "83.20.11.4", "taxId": null, "regular": false, "logged": false, "address": null}
+}
